@@ -1,0 +1,302 @@
+botOutput
+  [output]
+
+output
+	[who] writing about [what] [where].
+
+who
+	A parent
+	A grandparent
+	A younger sibling
+	An older sibling
+	A spouse
+	A child
+	A teacher
+	A student
+	A religious authority
+	A political authority
+	An elder
+	A native scholar
+	A foreign scholar
+	A tourist
+	A beggar
+	A poor person
+	A middle class person
+	An upper class person
+	A traditionalist
+	A revolutionary
+	A conqueror
+	A recent immigrant
+	An expat
+	A criminal
+	A lawman
+	A traveler
+	A minority
+	A bigot
+	A historian
+	A mystic
+	A cultist
+	A fool
+	A politician
+	An activist 
+	
+	
+what
+	marriage
+	fertility rituals
+	childbirth
+	birthdays
+	coming of age
+	pets
+	funerals
+	superstitions
+	taboos
+	dance
+	division of labor
+	gender
+	sexuality
+	courtship
+	feuds
+	religion
+	minority groups
+	the household
+	architecture
+	schooling
+	race
+	holidays
+	politics
+	food
+	visual culture
+	agriculture
+	exports
+	imports
+	manufacturing
+	folktales
+	daily life
+	childhood
+	family relationships
+	hierarchy
+	famous people
+	medicine
+	leisure
+	laws
+	drugs
+	hospitality
+	neighbors
+	attire
+	toys and games
+	jobs
+	battles
+	treaties
+	divination
+	ancestors
+	travel
+	magic
+	nostalgia
+	gifts
+	flora
+	fauna
+	treasures
+	parenting
+	elders
+	writing
+	transportation
+	foreign lands
+	climate
+	language
+	relics and artifacts
+	the landscape
+	settlements
+	rural life
+	urban life
+	heroes
+	crime
+	revolutions
+	outcasts
+	current events
+	rumors
+	femininity
+	masculinity
+	secret societies
+	guilds
+	pregnancy
+	preventing pregnancy
+	important places
+	hygiene
+	dangers
+	fads and fashions
+	love
+	slavery
+	trade
+	sickness
+	curses and blessings
+	pottery
+	textiles
+	weapons
+	commerce
+	mental illness
+	disability
+	ethics
+	manners
+	values
+	timekeeping
+	prohibitions
+	technology
+	the creation of the world
+	the end of the world
+	the Daedra
+	the Aedra
+	demigods
+	the Septims
+	the Mede Empire
+	ghosts
+	the Sload
+	magic
+	the Aldmeri Dominion
+	the Dwemer
+	the future
+	Akavir 
+	the Maormer 
+	bandits
+	starsigns
+  ancient history
+  recent history 
+  the afterlife
+  the ruling class
+  
+	
+where
+	in southern Cyrodiil
+	in western Cyrodiil
+	in nothern Cyrodiil
+	in eastern Cyrodiil
+	in central Cyrodiil
+	in south-western Cyrodiil
+	in north-western Cyrodiil
+	in south-eastern Cyrodiil
+	in north-eastern Cyrodiil
+	in southern Hammerfell
+	in western Hammerfell
+	in nothern Hammerfell
+	in eastern Hammerfell
+	in central Hammerfell
+	in south-western Hammerfell
+	in north-western Hammerfell
+	in south-eastern Hammerfell
+	in north-eastern Hammerfell
+	in southern High Rock
+	in western High Rock
+	in nothern High Rock
+	in eastern High Rock
+	in central High Rock
+	in south-western High Rock
+	in north-western High Rock
+	in south-eastern High Rock
+	in north-eastern High Rock
+	in southern Skyrim
+	in western Skyrim
+	in nothern Skyrim
+	in eastern Skyrim
+	in central Skyrim
+	in south-western Skyrim
+	in north-western Skyrim
+	in south-eastern Skyrim
+	in north-eastern Skyrim
+	in southern Morrowind
+	in western Morrowind
+	in nothern Morrowind
+	in eastern Morrowind
+	in central Morrowind
+	in south-western Morrowind
+	in north-western Morrowind
+	in south-eastern Morrowind
+	in north-eastern Morrowind
+	in southern Black Marsh
+	in western Black Marsh
+	in nothern Black Marsh
+	in eastern Black Marsh
+	in central Black Marsh
+	in south-western Black Marsh
+	in north-western Black Marsh
+	in south-eastern Black Marsh
+	in north-eastern Black Marsh
+	in southern Elsweyr
+	in western Elsweyr
+	in nothern Elsweyr
+	in eastern Elsweyr
+	in central Elsweyr
+	in south-western Elsweyr
+	in north-western Elsweyr
+	in south-eastern Elsweyr
+	in north-eastern Elsweyr
+	in southern Valenwood
+	in western Valenwood
+	in nothern Valenwood
+	in eastern Valenwood
+	in central Valenwood
+	in south-western Valenwood
+	in north-western Valenwood
+	in south-eastern Valenwood
+	in north-eastern Valenwood
+	in the southern Summerset Isles
+	in the western Summerset Isles
+	in the nothern Summerset Isles
+	in the eastern Summerset Isles
+	in the central Summerset Isles
+	in the south-western Summerset Isles
+	in the north-western Summerset Isles
+	in the south-eastern Summerset Isles
+	in the north-eastern Summerset Isles
+	on the border between Morrowind and Skyrim
+	on the border between Morrowind and Black Marsh
+	on the border between Elsweyr and Valenwood
+	on the border between Hammerfell and High Rock
+	on the border between Skyrim and High Rock
+	on the border between Skyrim and Hammerfell
+	on the border between Cyrodiil and Hammerfell
+	on the border between Cyrodiil and Skyrim
+	on the border between Cyrodiil and Morrowind
+	on the border between Cyrodiil and Black Marsh
+	on the border between Cyrodiil and Valenwood
+	on the border between Cyrodiil and Elswyer
+	on the coast of the Sea of Ghosts
+	on the coast of the Abecean Sea
+	on the coast of the Niben Bay
+	on Vvardenfell
+	in the Alik'r Desert
+	in the Wrothgarian Mountains
+	in the Dragontail Mountains
+	in the Valus Mountains
+	in the Ashlands
+	in the Velothi Mountains
+	near the Throat of the World
+	near Red Mountain
+	on the Iliac Bay
+	on the Bjoulsae River
+	in the Reach
+	on an island off the coast of Tamriel
+	during the late Merethic era
+	during the early 1st era
+	during Reman's time
+	during the Alessian Rebellion
+	during the early Alessian Order
+	during the Interregnum
+	during a Dragonbreak
+	at the time of the War of the First Council
+	during Tiber's conquest of Tamriel
+	during the Three Banners War
+	in the middle of the 1st era
+	in the late 1st era
+	in the early 2nd era
+	in the middle of the 2nd era
+	in the late 2nd era
+	in the early 3rd era
+	in the middle of the 3rd era
+	during the Oblivion Crisis
+	during the Imperial Simulacrum
+	in the early 4th era
+	in the middle of the 4th era
+	
+
+
+
